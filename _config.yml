@@ -1,0 +1,17 @@
+title: Proyecto Integrador de Aprendizaje Automático
+author: Andrés Parejo, Santiago Hurtado, Juan Marín
+logo: ""
+copyright: "2026"
+
+execute:
+  execute_notebooks: 'off'
+
+html:
+  use_repository_button: false
+  use_issues_button: false
+  use_edit_page_button: false
+
+sphinx:
+  config:
+    language: es
+    exclude_patterns: ["README.md", "_build", ".jupyter_cache"]
